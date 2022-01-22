@@ -1,0 +1,27 @@
+1)
+import java.util.scanner;
+public class Numbers{
+
+  public static void main(String args[]){
+     Scanner sc= new Scanner(System.in);
+     
+  System.out.println("str1:");
+     String str1=sc.next();
+
+   System.out.println("str2:");
+     String str1=sc.next();
+  
+   String result =str1+str2;
+   System.out.println(output);
+}
+}
+    
+2)
+public class boolean isAlphanumeric(String char){
+ for(char c:s.toCharArray()){
+ if(!character.letter(char)){
+retrun false;
+
+}
+
+}
